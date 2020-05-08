@@ -1,3 +1,7 @@
+# python mograte.py db init
+# python mograte.py db migrate
+# python mograte.py db upgrade
+
 # from flask import Flask
 # from marshmallow import Schema, fields, pre_load, validate
 from marshmallow import fields
